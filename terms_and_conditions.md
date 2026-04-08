@@ -63,7 +63,7 @@ Accounts found violating these rules may be suspended or banned.
 Your use of Choosy is also governed by our Privacy Policy.
 Please review it here:
 
-👉 [https://github.com/parameshmamidisetti/choosy-private-policy/blob/main/private-policy](https://github.com/parameshmamidisetti/choosy-policy/blob/main/privacy_policy.md)
+👉 https://github.com/parameshmamidisetti/choosy-policy/blob/main/privacy_policy.md
 
 ---
 
